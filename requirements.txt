@@ -1,0 +1,9 @@
+aiofiles==23.2.1
+fastapi==0.111.0
+mediapipe==0.10.14
+numba
+uvicorn==0.29.0
+scikit-spatial==7.2.0
+requests
+numpy
+pandas
